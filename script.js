@@ -25,4 +25,3 @@ setGridButton.addEventListener('click', () => {
         })
     }
 })
-
